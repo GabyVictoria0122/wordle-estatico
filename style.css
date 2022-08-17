@@ -29,6 +29,10 @@ h1 {
   margin-bottom: 5px;
 }
 
+.tabuleiro {
+  margin-bottom: 5px;
+}
+
 .tabuleiro-personalizado {
   text-align: center;
   position: relative;
